@@ -10,4 +10,4 @@
 Потом программа формирует запрос для StringsPacker.exe
 
 Интерфейс программы:   
-![N|Solid](http://i89.fastpic.ru/big/2017/1019/e7/fc40daa2ead3ebdc1498a03df229a1e7.png)
+![N|Solid](http://i89.fastpic.ru/big/2017/1019/7a/de695a293318598e9593e1c6dbc5637a.png)
