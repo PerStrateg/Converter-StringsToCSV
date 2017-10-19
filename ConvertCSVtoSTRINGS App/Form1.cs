@@ -87,8 +87,8 @@ namespace ConvertCSVtoSTRINGS_App
             for (int i = 0; i < dataGridView1.RowCount; i++)
             {
                 String line = "";
-                line += dataGridView1.Rows[i].Cells[0].Value + " ";
-                line += dataGridView1.Rows[i].Cells[1].Value + " ";
+                line += "\"" + dataGridView1.Rows[i].Cells[0].Value + "\"" + " ";
+                line += "\"" + dataGridView1.Rows[i].Cells[1].Value + "\"" + " ";
                 line += "/E1251";
                 args.Add(line);
             }

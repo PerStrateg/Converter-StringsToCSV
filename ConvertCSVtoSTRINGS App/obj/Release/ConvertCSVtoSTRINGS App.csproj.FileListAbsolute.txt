@@ -7,3 +7,4 @@ C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\Con
 C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS App.csproj.CoreCompileInputs.cache
 C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS App.exe
 C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS App.pdb
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS App.csprojResolveAssemblyReference.cache
