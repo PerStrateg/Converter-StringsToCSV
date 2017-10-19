@@ -1,0 +1,9 @@
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\bin\Release\ConvertCSVtoSTRINGS App.exe.config
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\bin\Release\ConvertCSVtoSTRINGS App.exe
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\bin\Release\ConvertCSVtoSTRINGS App.pdb
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS_App.Form1.resources
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS_App.Properties.Resources.resources
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS App.csproj.GenerateResource.Cache
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS App.csproj.CoreCompileInputs.cache
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS App.exe
+C:\Users\snuux\Documents\Visual Studio 2017\Projects\ConvertCSVtoSTRINGS App\ConvertCSVtoSTRINGS App\obj\Release\ConvertCSVtoSTRINGS App.pdb
