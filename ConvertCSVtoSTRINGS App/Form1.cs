@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -95,9 +96,23 @@ namespace ConvertCSVtoSTRINGS_App
 
             foreach (string line in args)
             {
-                System.Diagnostics.Process.Start(exePath, line);
+                StartProcess(exePath, line);
+                //System.Diagnostics.Process.Start(exePath, line);
             }
 
+        }
+
+        int StartProcess(string processName, string commandLineArgs = null)
+        {
+            Process process = new Process();
+            process.StartInfo.FileName = processName;
+            process.StartInfo.Arguments = commandLineArgs;
+            process.StartInfo.UseShellExecute = false;
+            process.StartInfo.CreateNoWindow = true;
+            process.StartInfo.ErrorDialog = false;
+            process.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+            process.Start();
+            return process.Id;
         }
     }
 }
